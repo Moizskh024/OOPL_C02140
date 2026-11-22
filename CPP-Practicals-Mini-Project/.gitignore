@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.out
+a.out
+practical
+digital_ewallet
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local application data (if generated)
+*.dat
+*.db
+*.txt
+!README.md
